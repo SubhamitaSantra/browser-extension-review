@@ -1,0 +1,26 @@
+Browser Extension Review Report
+
+Installed Extension:
+1. **Google Docs Offline**
+
+🔍 Permissions Checked:
+- Allows creating, opening, and editing Google Docs files offline.
+- Allows to read and change data on sites.
+
+Review Summary:
+- Provided directly by Google.
+- Trusted source.
+- Good reviews and ratings.
+- No history of suspicious behaviour or privacy issues.
+
+Action Taken:
+- No extensions removed.
+- Offline functionality tested and working.
+- Awareness improved about how even simple extensions can have access to data.
+
+Key Learning:
+- Always check permissions before installing new extensions.
+- Even pre-installed or trusted extensions should be reviewed occasionally.
+- Malicious extensions can:
+  - Track browsing activity
+  - Inject ads or steal personal information
